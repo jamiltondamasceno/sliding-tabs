@@ -1,4 +1,4 @@
-# Importante :warning:
+# :warning: Importante
 ### Se você estiver tendo problemas com o SlidingTabs em relação às seguintes classes:
     import android.support.v4.view.PagerAdapter;
     import android.support.v4.view.ViewPager;
